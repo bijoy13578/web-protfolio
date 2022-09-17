@@ -5,6 +5,9 @@ body{
 h1{
     font-size: 50px;
 }
+section{
+    padding-bottom: 50px;
+}
 .name-highlight{
     color: orange;
 }
